@@ -98,9 +98,6 @@ plt.show()
 What are the differences of the techniques of Car manufacture among different countries?
 """
 
-!pip install mplcyberpunk
-
-!pip install pandas
 
 df['MAKE'].unique()
 
