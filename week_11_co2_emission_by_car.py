@@ -23,7 +23,6 @@ Questions
 2. Is it possible to create a model that predicts the amount of polution on future motors? How and Why?
 """
 
-pip install -pre pandas
 
 # importing necessary libraries
 import pandas as pd
